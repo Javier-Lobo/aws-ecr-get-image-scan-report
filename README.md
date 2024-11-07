@@ -38,7 +38,7 @@ Pero ya sabéis: `en mi máquina funciona`.
 # aws-ecr-get-image-scan-report
 This script download the JSON of vulnerability reports for images in AWS ECR and generate a report in Markdown language.
 
-The script is written to work on macOS and uses whiptail to display a retro graphical look and feel.
+The script is written to work on macOS and uses whiptail to display a retro graphical~ish look and feel.
 
 ## What does this do?
 It asks for the repository containing the image from which the report will be downloaded.
