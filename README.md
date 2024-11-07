@@ -63,7 +63,7 @@ The result will look something like this:
 
 Sending the report to your developers and poking them with a stick to fix the vulnerabilities is a more manual process ;)
 
-##To do
+## To do
 Error handling probably needs to be improved, for example in case there are no images with scan reports.
 
 It could also potentially list all ECR repositories in a given AWS account according to the profile and offer them for selection.
