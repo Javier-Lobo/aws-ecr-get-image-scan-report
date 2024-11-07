@@ -33,7 +33,7 @@ Probablemente se podría también listar todos los repositorios en ECR de una cu
 
 Pero ya sabéis: `en mi máquina funciona`.
 
-========================================================
+---
 
 # aws-ecr-get-image-scan-report
 Thii script download the JSON of vulnerability reports for images in AWS ECR and generate a report in Markdown language.
